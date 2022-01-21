@@ -10,7 +10,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanidhyataparia" alt="sanidhyataparia" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
+
+[<img align="left" alt="Sanidhya | Linkedin" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+<br />
+<br />
+
 <p align="left">
 </p>
 
