@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# 𝐇i👋 folks! I am [<Sanidhya Taparia/>](https://www.manlakshya.tech)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanidhyataparia&label=Profile%20views&color=0e75b6&style=flat" alt="sanidhyataparia" /> </p>
 
