@@ -11,8 +11,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanidhyataparia" alt="sanidhyataparia" /></a> </p>
 
 ### Connect with me:
-
-[<img align="left" alt="Sanidhya | Linkedin" width="52px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+<a href="https://in.linkedin.com/in/sanidhya-taparia-4a4760207"><img src=""https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></img></a>
+  
 <br />
 <br />
 
