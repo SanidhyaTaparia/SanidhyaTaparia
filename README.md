@@ -1,4 +1,4 @@
-![](https://giphy.com/embed/QpVUMRUJGokfqXyfa1)
+![](https://github.com/SanidhyaTaparia/SanidhyaTaparia/blob/main/Programming.gif)
 # 𝐇i👋 folks! I am Sanidhya Taparia, a MERN Stack Developer and Robotics Enthusiast
 
 ## 🙋🏽‍♂️About Me
