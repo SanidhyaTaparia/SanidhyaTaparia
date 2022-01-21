@@ -13,8 +13,8 @@
 ### Connect with me:
 <a href="https://in.linkedin.com/in/sanidhya-taparia-4a4760207"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"></img></a>
   
-<br />
-<br />
+<hr />
+<hr />
 
 <p align="left">
 </p>
