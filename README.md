@@ -1,4 +1,10 @@
-# 𝐇i👋 folks! I am Sanidhya Taparia
+# 𝐇i👋 folks! I am Sanidhya Taparia, a MERN Stack Developer and Robotics Enthusiast
+
+## 🙋🏽‍♂️About Me
+
+- I am a Electronics Communication and Engineering undergraduate student at the Indian Institute of Technology ( BHU ) pursuing a Bachelor of Technology in my Second Year.
+- I have keen interest in Open Source, Website Development and Robotics Engineering.
+- I am looking to contribute in projects related to MERN Stack and React Native Application Development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanidhyataparia&label=Profile%20views&color=0e75b6&style=flat" alt="sanidhyataparia" /> </p>
 
