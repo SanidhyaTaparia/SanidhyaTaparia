@@ -1,6 +1,6 @@
 ![](https://github.com/SanidhyaTaparia/SanidhyaTaparia/blob/main/Programming.gif)
-# 𝐇i👋 folks! I am Sanidhya Taparia, a MERN Stack Developer and Robotics Enthusiast
-
+# 𝐇i👋 folks! I am [Sanidhya Taparia](https://sanidhya-portfolio.vercel.app/), a MERN Stack Developer and Robotics Enthusiast
+[![Download Resume](https://custom-icon-badges.herokuapp.com/badge/-Resume-blue?style=for-the-badge&logo=download&logoColor=white "Download Resume")](https://sanidhya-portfolio.vercel.app/static/media/resume.c820694b.pdf)
 ## 🙋🏽‍♂️About Me
 
 - I am a Electronics Communication and Engineering undergraduate student at the Indian Institute of Technology ( BHU ) pursuing a Bachelor of Technology in my Second Year.
@@ -13,6 +13,7 @@
 
 ### Connect with me:
 <a href="https://in.linkedin.com/in/sanidhya-taparia-4a4760207"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"></img></a>
+<a href="https://sanidhya-portfolio.vercel.app/"><img src="https://github.com/SanidhyaTaparia/SanidhyaTaparia/blob/main/Website_Icon.jpg" width="40" height="40"></img></a>
   
 <hr />
 
